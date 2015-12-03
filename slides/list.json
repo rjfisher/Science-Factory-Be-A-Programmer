@@ -1,0 +1,56 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "http://www.vtdesignworks.com/blog/wp-content/uploads/2014/09/php-code.jpg"
+        }
+    },
+    {
+        "filename": "who-loves-computers.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "who-wants-to-be-a-wizard.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "wizard-photo.md",
+        "attr": {
+            "data-background": "https://media.giphy.com/media/uJESlGbxDPscM/giphy.gif"
+        }
+    },
+    {
+        "filename": "not-quite.md",
+        "attr": {
+            "data-background": "https://media.giphy.com/media/uJESlGbxDPscM/giphy.gif"
+        }
+    },
+    {
+        "filename": "who-loves-robots.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "robot-photo.md",
+        "attr": {
+            "data-background": "https://media.giphy.com/media/S0hxMGYFhEMzm/giphy.gif"
+        }
+    },
+    {
+        "filename": "who-likes-to-bake.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "bake-photo.md",
+        "attr": {
+            "data-background": "http://freedomoutpost.com/wp-content/uploads/2015/04/Sweet-and-Delish-Rainbow-Cake-colors-34691736-2464-1632.jpg"
+        }
+    }
+]
