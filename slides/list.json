@@ -52,5 +52,29 @@
         "attr": {
             "data-background": "http://freedomoutpost.com/wp-content/uploads/2015/04/Sweet-and-Delish-Rainbow-Cake-colors-34691736-2464-1632.jpg"
         }
+    },
+    {
+        "filename": "the-good-kind-of-bossy.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "bossy-photo.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "computers-don-t-have-feelings.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "sad-robot-photo.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
     }
 ]
