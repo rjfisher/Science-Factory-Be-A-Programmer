@@ -1,3 +1,3 @@
-##  Thanks
+# Thanks
 
-I hope you all had fun!
+## I hope you all had fun!
