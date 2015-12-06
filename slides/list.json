@@ -56,25 +56,61 @@
     {
         "filename": "the-good-kind-of-bossy.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
         }
     },
     {
         "filename": "bossy-photo.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "http://ecx.images-amazon.com/images/I/412SR297tjL._SX258_BO1,204,203,200_.jpg"
         }
     },
     {
         "filename": "computers-don-t-have-feelings.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
         }
     },
     {
         "filename": "sad-robot-photo.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "http://40.media.tumblr.com/tumblr_lnmcjdWWZK1qz57rgo1_1280.jpg"
+        }
+    },
+    {
+        "filename": "who-wants-to-go-on-an-adventure.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "adventure-photo.md",
+        "attr": {
+            "data-background": "https://media.giphy.com/media/3rgXBsmYd60rL3w7sc/giphy.gif"
+        }
+    },
+    {
+        "filename": "blockly-games.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "want-to-keep-going.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "lancaster-coder-dojo.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
+        }
+    },
+    {
+        "filename": "thanks.md",
+        "attr": {
+            "data-background": "http://ifixyourpc.co/wp-content/uploads/2012/09/dark-metal-texture3000x2000.jpg"
         }
     }
 ]

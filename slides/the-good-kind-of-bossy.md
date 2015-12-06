@@ -1,1 +1,1 @@
-##  The Good Kind of Bossy
+##  It's the Good Kind of Bossy!
